@@ -1,2 +1,2 @@
-# holbertonschool-binary_trees
-Team Project
+# C - Binary Trees
+## Team Project
